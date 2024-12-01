@@ -12,7 +12,7 @@
 
 						<div class="header">
 							<h1 class="text-center">Donate the blood, save the life</h1>
-						<p class="text-center">Donate the blood to help the others.</p>
+						<p class="text-center">Donate the blood to help others.</p>
 						</div>
 
 
@@ -93,8 +93,6 @@ At Donate the blood, we aim to raise awareness about the importance of blood don
 Together, we can create a compassionate community where every drop of blood counts. Join us in our mission to ensure that blood is always available for those who need it the most.
 
 Your donation can be the difference between life and death.
-
-Feel free to adapt it to your website’s specific tone, style, and goals.
 
 
 
