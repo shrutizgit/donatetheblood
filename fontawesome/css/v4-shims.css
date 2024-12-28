@@ -784,6 +784,13 @@
 .fa.fa-youtube-play:before {
   content: "\f167"; }
 
+  .fa.fa-instagram-play {
+    font-family: 'Font Awesome 5 Brands';
+    font-weight: 400; }
+  
+  .fa.fa-instagram-play:before {
+    content: "\f16d"; }
+
 .fa.fa-dropbox {
   font-family: 'Font Awesome 5 Brands';
   font-weight: 400; }

@@ -6,14 +6,14 @@
 						<hr class="white-bar">
 
 							<h1 class="text-center">
-								<a  target="_blank" href="https://www.instragram.com"><i style="color: #fff;" class="fab fa-instagram-square"></i></a>
+								<a  target="_blank" href="https://www.facebook.com"><i style="color: #fff;" class="fab fa-facebook-square"></i></a>
 
 								<a target="_blank" href="https://www.youtube.com"><i style="color: #fff;" class="fab fa-youtube-square"></i></a> 
 							</h1>
 
 							<div class="details">
 								 <p> 99999 99999 <i class="fa fa-phone"></i>
-								donatetheblood@gmail.com <i class="fa fa-envelope"></i>  </p>
+								helpingveins@gmail.com <i class="fa fa-envelope"></i>  </p>
 							</div>
 
 					</div>

@@ -30,7 +30,7 @@
 			<h1 class="text-center error">404</h1>
 			<div class="head-para">
 				<h3 class="text-center">OOPS, SORRY WE CAN'T FIND THAT PAGE!</h3>
-			<p class="text-center">Either something went wrong or that page dosent exist anymore.</p>
+			<p class="text-center">Either something went wrong or that page does not exists anymore.</p>
 			</div>	
 
 			<a href="index.php" class="btn btn-lg btn-danger center-aligned">Home</a>

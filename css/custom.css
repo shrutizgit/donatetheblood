@@ -142,7 +142,7 @@ body{
     height: auto;
     min-height: 460px;
     padding: 10px;
-    color: white;
+    color: rgb(12, 1, 1);
     font-weight: 700;
 }
 .header-img p{
